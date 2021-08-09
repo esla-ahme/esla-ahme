@@ -9,7 +9,7 @@ I heve investigated a lot of developing feilds during my continous learning jour
 ##### Android
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-#####currentely investigate my time to deepin my undesrstanding of:
+##### currentely investigate my time to deepin my undesrstanding of:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
 ### Contact me 
