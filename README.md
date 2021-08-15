@@ -16,6 +16,10 @@ I heve investigated a lot of developing feilds during my continous learning jour
 ##### currentely investigate my time to deepin my undesrstanding of:
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
+##### currentely reading
+> [TypeSctipt Quickly](https://www.amazon.com/TypeScript-Quickly-Yakov-Fain/dp/1617295949) check my [**repo**](https://github.com/esla-ahme/TypeScript-Quickly)
+
+> [Grokking Algorithms](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230) 
 
 ### Contact me 
 
