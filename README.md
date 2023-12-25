@@ -21,7 +21,5 @@ I heve investigated a lot of developing feilds during my continous learning jour
 
 ### Do you love stats?
 <br/>
-[![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=esla-ahme&theme=nord&show_icons=true&)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/esla-ahme/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esla-ahme&layout=compact&theme=nord&exclude_repo=investigate-dataset&langs_count=6" /></a>
-
+[![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=esla-ahme)](https://github.com/anuraghazra/github-readme-stats)
