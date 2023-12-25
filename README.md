@@ -24,4 +24,4 @@ I heve investigated a lot of developing feilds during my continous learning jour
 
 ![Eslam's GitHub stats](https://github-readme-stats.vercel.app/api?username=esla-ahme&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esla-ahme)
+![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=esla-ahme&theme=radical&hide=jupeter](https://github-readme-stats.vercel.app/api/top-langs/?username=esla-ahme&theme=radical&hide=jupyter%20notebook,html&layout=compact)https://github-readme-stats.vercel.app/api/top-langs/?username=esla-ahme&theme=radical&hide=jupyter%20notebook,html&layout=compact)
